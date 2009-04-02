@@ -11,7 +11,7 @@ generation.For this, we should also have some knowledge about some assembly lang
 
 = Details =
 
-To write a compiler using lex and yacc, the first thing you need is an OS(Linux).
+To write a compiler using lex and yacc, I used fedora 8. Other linux can also be used.
 Then you have to install packages necessary to install lex and yacc.
 
 After you have successfully done this, you have to go for writing the lex file.
