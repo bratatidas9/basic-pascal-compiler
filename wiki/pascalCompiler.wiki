@@ -5,8 +5,8 @@ A Basic pascal Compiler using lex and yacc
 Every programming language needs a compiler. It is just a basic compiler 
 for pascal which use lex and yacc to implement code. Codes are basically written
 in C++. Some knowledge about Regular Expression and a good knowledge of context 
-free grammar is needed. We implement a basic pascal compiler upto intermediate code
-generation.For this, we should also have some knowledge about some assembly language.
+free grammar is needed. I implemented a basic pascal compiler upto intermediate code
+generation.For this, some knowledge of assembly language is also needed.
 
 
 = Details =
